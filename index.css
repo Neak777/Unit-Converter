@@ -1,0 +1,37 @@
+ @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;800&family=Karla:wght@400;800&family=Outfit&family=Red+Hat+Display:wght@400;800&display=swap');
+ 
+ 
+
+ body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Inter';
+    padding: 10px;
+}
+
+.hero {
+    background: #6943fe;
+    color: white;
+    padding: 30px;
+}
+
+.main {
+    background: #f4f4f4;
+    padding: 10px;
+}
+
+.section {
+    background: white;
+    padding: 5px;
+}
+
+.units {
+  background: #FFFFFF;
+  margin-bottom: 36px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 20px;
+}
